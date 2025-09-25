@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+/flashcard-app/node_modules
+/client/node_modules
+
+# Environment Variables (CRITICAL: Do not expose secrets!)
+/flashcard-app/.env
+
+# Build Output
+/client/build
